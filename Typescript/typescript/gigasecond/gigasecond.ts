@@ -1,6 +1,7 @@
-class Gigasecond{
-    static gigasecond(){
-        
+class Gigasecond {
+    // tslint:disable-next-line:no-empty
+    static gigasecond() {
+
     }
 }
 
